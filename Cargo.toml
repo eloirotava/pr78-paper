@@ -1,0 +1,6 @@
+[package]
+name = "pr78-paper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
